@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ultra-prompt": {
+      "url": "https://up-mcp.unpluggedfeed.workers.dev",
+      "headers": {
+        "Authorization": "Bearer ${env:ULTRAPROMPT_API_KEY}"
+      }
+    }
+  }
+}
